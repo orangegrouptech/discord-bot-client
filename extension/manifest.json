@@ -2,8 +2,8 @@
 	"manifest_version": 2,
 	"name": "Discord Bot Client",
 	"version": "1.0.0",
-	"description": "This extension allows you to use https://botclient.tk",
-	"author": "Flam3rboy",
+	"description": "This extension allows you to use https://discord-bot-client.orangegrouptech.repl.co/",
+	"author": "Orange Group Tech",
 	"background": {
 		"scripts": ["script.js"]
 	},
